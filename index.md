@@ -1,8 +1,8 @@
 ---
 layout: frontpage
-title: Aaron J. Stern 
-description: Aaron Stern's academic home page 
-keywords: Blue, Ham, treats, recycling, mail, being a good boy
+title: Maya E. Lemmon-Kishi
+description: Maya Lemmon-Kishi's home page 
+keywords: graduate student, research, population genetics, computational biology
 
 ---
 #### About me
