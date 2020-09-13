@@ -32,8 +32,8 @@ Outside of work, I enjoy hiking (especially the Sierras), playing/following bask
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="https://github.com/35ajstern">GitHub</a></li>
-          <li><a href="https://twitter.com/aaron__stern">Twitter (@aaron__stern)</a></li>
+          <li><a href="https://github.com/lemmonquiche">GitHub</a></li>
+          <li><a href="https://twitter.com/lemmonquiche">Twitter (@lemmonquiche)</a></li>
       </ul>
   </div>
 </div>
