@@ -1,29 +1,19 @@
 ---
 layout: page
-title: Publications 
-description: Aaron Stern | Publications 
+title: Publications and Presentations
+description: Maya Lemmon-Kishi | Publications and Presentations
 ---
-
-### Preprints
-
-<b>Stern AJ</b>, Speidel L, Zaitlen NA, Nielsen R, "Disentangling selection on genetically correlated polygenic
-2 traits using whole-genome genealogies", *bioRxiv* (2020).
-
-Cheng J, <b>Stern AJ</b>, Racimo F, Nielsen R, "Ohana: detecting selection in multiple populations by
-modelling ancestral admixture components", under review at *MBE*.
 
 ### Publications
 
-<b>Stern AJ</b>, Wilton PR, Nielsen R, "An approximate full-likelihood method for inferring selection and allele frequency trajectories using DNA sequence data", *PLOS Genetics* (2019).
+Candiello, J., Grandhi, T.S.P., Goh, S.K., Vaidya, V.,<b>Lemmon-Kishi, M.</b>, Eliato K.R., Ros, R., Kumta, P., Rege, K., Banerjee,I. (2018) “3D Heterogeneous Islet Organoid Generation from Human Embryonic Stem Cells Using a Novel EngineeredHydrogel Platform.”Biomaterials. 177: 27-39.
 
-<b>Stern AJ</b>, Nielsen R, "Detecting Natural Selection", *Handbook of Statistical Genetics, 4th Edition*,  John Wiley & Sons 2019.
+### Presentations
 
-Prohaska A, Racimo F, Schork AJ, Sikora M, <b>Stern AJ\*</b>, Ilardo M\*, *et al.*, "Human Disease Variation in Light of Population Genomics",  *Cell Reviews* (2019).
+<b>Lemmon-Kishi, M.</b>, Peddada, V., Chu, C., et. al. Hot Metal Switch: Synthetic in vitro gene circuit for the detection ofmetal ions. iGEM Jamboree 2017. Boston, Massachusetts. October 27-31, 2016.
 
-Corl A, Bi K, Luke C, Challa AS, <b>Stern AJ</b>, Sinervo B, Nielsen R, "Genetic change follows plasticity for cryptic coloration in a novel environment", *Current Biology* (2018).
+<b>Lemmon-Kishi, M.</b>, Peddada, V., Chu, C., et. al. Thallium and Lead Detection Using Cell-Free Circuitry. Biomedical Engineering Society Conference 2016. Minneapolis, MN. October 8, 2016.
 
-Ilardo M, Moltke I, Korneliussen T, Cheng J, <b>Stern AJ</b>, *et al*, "Physiological and genetic adaptations to diving in Sea Nomads", Cell (2018)
- 
-Hockenberry AJ, <b>Stern AJ</b>, Amaral LAN, Jewett M, "Bacterial growth rate demands shape variation", *Molecular Biology & Evolution* (2017).
+<b>Lemmon-Kishi, M.</b>, Ni Chochlian, A. Hot Metal Switch at H2Oh!. Carneige Science Center. Pittsburgh, PA. 2016
 
-Gong B\*, <b>Stern AJ\*</b>, Wang Y\*, Zhou Y\*, "Review of Statistical Analysis of Numerical Preclinical Radiobiological Data", *ScienceOpen Research* (2016).
+<b>Lemmon-Kishi, M.</b>, Lachell, S. Tissue Engineered Skin Grafts Using Adipose-Derived Stem Cells. Freshmen Engineering Conference. University of Pittsburgh. Pittsburgh, PA. April 11, 2015
