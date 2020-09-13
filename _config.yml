@@ -8,12 +8,12 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : Aaron J. Stern
+title : Maya E. Lemmon-Kishi
 author :
-  name : Aaron Stern 
-  email : ajstern@berkeley.edu 
-  github : 35ajstern 
-  twitter : aaron__stern 
+  name : Maya Lemmon-Kishi
+  email : maya_lemmon-kishi@berkeley.edu
+  github : lemmonquiche
+  twitter : lemmonquiche
 
 production_url : http://35ajstern.github.io
 
