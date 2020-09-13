@@ -7,7 +7,7 @@ keywords: graduate student, research, population genetics, computational biology
 ---
 #### About me
 
-I am a PhD candidate at UC Berkeley in the <a href="https://ccb.berkeley.edu/academics/phd-in-computational-biology/">Graduate Group in Computational Biology</a> advised by <a href="http://www.nielsenlab.org/">Rasmus Nielsen</a> of the Depts. of Integrative Biology and Statistics. I also work with <a href="http://zaitlenlab.science/">Noah Zaitlen</a> at the UCLA David Geffen School of Medicine. 
+I am a second year PhD student at University of California Berkeley in the <a href="https://ccb.berkeley.edu/academics/phd-in-computational-biology/">Computational Biology Graduate Group</a>. I am advised by Rasmus Nielsen of the Departments of Integrative Biology and Statistics.
 
 <img style="float: right;" src="../assets/headshot.jpg" width="300">
 
