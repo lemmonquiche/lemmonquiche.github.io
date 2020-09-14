@@ -23,7 +23,7 @@ I was the student adviser for <a href="http://2017.igem.org/Team:Pittsburgh">Pit
  
 ### DEI Committee, 2020
 <ul>
-<li>Graduate student presentative</li>
+<li>Graduate student representative</li>
 <li>Currently writing a strategic plan to increase diversity, equity, and inclusivity using data gathered from the first Centerfor Computational Biology climate survey</li>
 </ul>
 
