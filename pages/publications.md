@@ -17,3 +17,15 @@ Candiello, J., Grandhi, T.S.P., Goh, S.K., Vaidya, V., <b>Lemmon-Kishi, M.</b>, 
 <b>Lemmon-Kishi, M.</b>, Ni Chochlian, A. Hot Metal Switch at H2Oh!. Carneige Science Center. Pittsburgh, PA. 2016
 
 <b>Lemmon-Kishi, M.</b>, Lachell, S. Tissue Engineered Skin Grafts Using Adipose-Derived Stem Cells. Freshmen Engineering Conference. University of Pittsburgh. Pittsburgh, PA. April 11, 2015
+
+---
+
+
+<div class="navbar">
+  <div class="navbar-inner">
+      <ul class="nav">
+          <li><a href="https://github.com/lemmonquiche">GitHub</a></li>
+          <li><a href="https://twitter.com/lemmonquiche">Twitter (@lemmonquiche)</a></li>
+      </ul>
+  </div>
+</div>
