@@ -44,7 +44,6 @@ I was the student adviser for <a href="http://2017.igem.org/Team:Pittsburgh">Pit
 
 ---
 
-
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">

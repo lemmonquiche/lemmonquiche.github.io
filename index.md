@@ -21,7 +21,6 @@ keywords: graduate student, research, population genetics, computational biology
 
 ---
 
-
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">

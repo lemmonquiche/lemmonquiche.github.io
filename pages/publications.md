@@ -20,7 +20,6 @@ Candiello, J., Grandhi, T.S.P., Goh, S.K., Vaidya, V., <b>Lemmon-Kishi, M.</b>, 
 
 ---
 
-
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">

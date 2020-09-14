@@ -12,7 +12,6 @@ description: Maya Lemmon-Kishi | Research
 
 ---
 
-
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
