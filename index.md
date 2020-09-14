@@ -9,7 +9,7 @@ keywords: graduate student, research, population genetics, computational biology
 
 <div style="text-align: justify">I am a second year PhD student at University of California Berkeley in the <a href="https://ccb.berkeley.edu/academics/phd-in-computational-biology/">Computational Biology Graduate Group</a>. I am advised by <a href="http://www.nielsenlab.org/">Rasmus Nielsen</a> of the Departments of Integrative Biology and Statistics.</div>
 
-<img style="float: right;" src="../assets/headshot.jpg" width="300">
+<img style="padding: 10px; float: right;" src="../assets/headshot.jpg" width="300">
 
 <div style="text-align: justify">Broadly speaking, I am interested in integrating ecological methods with population genetics to understand how species respond to environmental changes. Currently I am working on developing methods for population genetic analyses of environmental DNA.</div>
 
