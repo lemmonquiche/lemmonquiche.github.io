@@ -89,14 +89,14 @@ h1, h2, h3, h4 {
     min-height:40px;
     padding-left:20px;
     padding-right:20px;
-    background-color:#31bfb6
-    background-image:-moz-linear-gradient(top, #31bfb6, #30bfb6);
-    background-image:-webkit-gradient(linear, 0 0, 0 100%, from(#31bfb6), to(#f2f2f2));
-    background-image:-webkit-linear-gradient(top, #31bfb6, #30bfb6);
-    background-image:-o-linear-gradient(top, #31bfb6, #30bfb6);
-    background-image:linear-gradient(to bottom, #31bfb6, #30bfb6);
+    background-color:#ebefff
+    background-image:-moz-linear-gradient(top, #ecefff, #ebefff);
+    background-image:-webkit-gradient(linear, 0 0, 0 100%, from(#ecefff), to(#f2f2f2));
+    background-image:-webkit-linear-gradient(top, #ecefff, #ebefff);
+    background-image:-o-linear-gradient(top, #ecefff, #ebefff);
+    background-image:linear-gradient(to bottom, #ecefff, #ebefff);
     background-repeat:repeat-x;filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffffff', endColorstr='#fff2f2f2', GradientType=0);
-    border:1px solid #31bfb6;
+    border:1px solid #ecefff;
     -webkit-border-radius:4px;
     -moz-border-radius:4px;
     border-radius:4px;
