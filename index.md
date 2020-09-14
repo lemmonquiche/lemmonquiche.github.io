@@ -22,11 +22,11 @@ keywords: graduate student, research, population genetics, computational biology
 ---
 
 
-<!-- <div class="navbar">
+<div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="https://github.com/lemmonquiche">GitHub</a></li>
           <li><a href="https://twitter.com/lemmonquiche">Twitter (@lemmonquiche)</a></li>
       </ul>
   </div>
-</div> -->
+</div>
