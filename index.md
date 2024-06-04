@@ -11,7 +11,7 @@ keywords: graduate student, research, population genetics, computational biology
 
 <img style="padding: 10px; float: right;" src="../assets/headshot.jpg" width="300">
 
-<div style="text-align: justify">Broadly speaking, I am interested in developing phylogenetic and population genetic methods to analyze ancient sedimentary DNA to gain new insights into the influences of the interplay between ecological and evolutionary processes. Currently, I am developing a phylogenetics based method for molecular dating and molecular clock calibration using ancient sedimentary DNA.</div>
+<div style="text-align: justify">Broadly speaking, I am interested in combining computing and molecular evolution to gain new insights into the influences of the interplay between ecological and evolutionary processes. For my PhD, I am developing phylogenetic based methods to analyze ancient sedimentary DNA beyond occupancy.</div>
 
 #### Background
 
