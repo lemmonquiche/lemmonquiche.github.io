@@ -1,0 +1,7 @@
+main:
+  - title: "About Me"
+    url: /about/
+  - title: "Research"
+    url: /research/
+  - title: "CV"
+    url: /assets/documents/Maya_Lemmon-Kishi_CV.pdf
